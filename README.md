@@ -1,9 +1,28 @@
-# Industry Talk and Industry Visit – TIS E-Portfolio
+# My name is Eric Tan Zhi En
 
-## Description
-This repository contains my assignments for the Industry Talk and Industry Visit activities in the Technology and Information System (TIS) course.
+## About Me
+I am a motivated computer science student with a strong interest in cybersecurity.
 
-## Activities
+-  Born in Muar, Johor
+-  Computer Science Student
+-  Email: erictze2006@gmail.com
+
+## Education
+Secondary School: SMK St Andrew
+Pre-University: UTM JB
+Now: Computer Science (Computer Networks & Security) with Honours at UTM JB
+
+## Socials
+<p align="left">
+  <a href="https://github.com/stake7577" target="_blank">
+ <a href="https://www.linkedin.com/in/eric tan" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+  </a>
+</p>
+    
+## First industry talk
+
+# Activities
 - Attended an industry talk by an invited speaker  
 - Participated in an industry visit session  
 - Prepared a report and presentation based on the activities  
@@ -17,10 +36,8 @@ The sessions could be improved by providing more interaction time, such as longe
 ## Reflection
 Overall, this activity helped me connect what I learn in class with real industry practices. It also motivated me to improve both my technical skills and soft skills to prepare for my future career.
 
-# PC Assemble (Lab) – TIS E-Portfolio
-
-## Description
-This repository contains my PC Assemble laboratory assignment for the Technology and Information System (TIS) course. The purpose of this lab is to provide hands-on experience in assembling computer hardware components.
+# PC Assemble (Lab)
+![537263275-cb3257f4-4a64-4e5e-b213-77824c2e3347](https://github.com/user-attachments/assets/0e90abef-8f25-4409-b57c-b92fcc859bbf)
 
 ## Activities
 - Identified main computer hardware components such as CPU, motherboard, RAM, storage device, power supply, and casing  
@@ -37,10 +54,8 @@ The lab session could be improved by allocating more time for hands-on practice 
 ## Reflection
 Overall, the PC Assemble lab helped me apply theoretical knowledge to real practice. It increased my confidence in handling computer hardware and enhanced my practical skills, which are useful for future studies and IT-related careers.
 
-# Design Thinking (Low Fidelity Prototype) – TIS E-Portfolio
-
-## Description
-This repository contains my Design Thinking assignment for the Technology and Information System (TIS) course. The focus of this activity was to apply the design thinking process and develop a low fidelity prototype to solve a user-centered problem.
+# Design Thinking 
+[Uploading DESIGN THINKING PROJECT REPORT.pdf…]()
 
 ## Activities
 - Identified a problem based on user needs  
