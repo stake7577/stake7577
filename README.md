@@ -1,4 +1,4 @@
-# My name is Eric Tan Zhi En
+## My name is Eric Tan Zhi En
 
 ## About Me
 I am a motivated computer science student with a strong interest in cybersecurity.
