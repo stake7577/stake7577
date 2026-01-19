@@ -53,8 +53,10 @@ The lab session could be improved by allocating more time for hands-on practice 
 ## Reflection
 Overall, the PC Assemble lab helped me apply theoretical knowledge to real practice. It increased my confidence in handling computer hardware and enhanced my practical skills, which are useful for future studies and IT-related careers.
 
-# Design Thinking 
-[Uploading DESIGN THINKING PROJECT REPORT.pdf…]()
+# Design Thinking
+[DESIGN THINKING PROJECT REPORT.pdf](https://github.com/user-attachments/files/24714562/DESIGN.THINKING.PROJECT.REPORT.pdf)
+
+
 
 ## Activities
 - Identified a problem based on user needs  
