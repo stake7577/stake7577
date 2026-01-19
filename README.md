@@ -13,9 +13,9 @@ Pre-University: UTM JB
 Now: Computer Science (Computer Networks & Security) with Honours at UTM JB
 
 ## Socials
+
 <p align="left">
-  <a href="https://github.com/stake7577" target="_blank">
- <a href="[https://www.linkedin.com/in/eric tan](https://www.linkedin.com/in/eric-tan-a563303a6/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eric-tan-a563303a6/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
   </a>
 </p>
